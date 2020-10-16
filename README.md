@@ -1,4 +1,4 @@
-# web_app
+# flowchart-development
 
 ## Project setup
 ```
